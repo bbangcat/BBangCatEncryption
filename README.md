@@ -14,6 +14,7 @@
 bbangcat_encryption = "0.1.1"
 ```
 
+
 `main.rs`:
 ```rust
 use bbangcat_encryption::bce;
